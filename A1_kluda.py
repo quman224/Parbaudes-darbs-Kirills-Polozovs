@@ -5,5 +5,5 @@ with open("sistema.log", encoding="utf-8") as f:
         dalas = rinda.split()
         if any(d.strip("[]:") == "WARNING" for d in dalas[:4]):
             skaits = skaits + 1
-
+print("WARNING rindas:", skaits)
 
