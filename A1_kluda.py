@@ -6,4 +6,4 @@ with open("sistema.log", encoding="utf-8") as f:
         if any(d.strip("[]:") == "WARNING" for d in dalas[:4]):
             skaits = skaits + 1
 
-print("Atrasts:", skaits)
+
