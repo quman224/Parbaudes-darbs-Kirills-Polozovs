@@ -1,1 +1,5 @@
+PowerShell konveijera no vienas komandas uz nakamo tiek nodoti objekti ar nosauktām īpasibām un datu tipiem piemēram procesam ir īpašība ar atminas apjomu ka skaitli. Bash konveijera tiek nodots tikai teksts kas jasadala pa kolonnam un japarveido par skaitļiem
 
+1. Nofiltreju rindas un paturu tikai tas kurās limenis ir errorr
+2. No katras atlasītās rindas laika paņemu tikai stundas daļu
+3. Sagrupēju kludas pec stundas un saskaitu cik to ir katra grupa pec tam sakartoju grupas no lielaka skaita uz mazako un pirma grupa ir stunda ar visvairāk kludu parbaudu rezultatu ar manuali saskaiittu paraugu
